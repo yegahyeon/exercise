@@ -24,7 +24,7 @@ hint.addEventListener("click", () => {
         window.alert("당신이 아는 제일 작은 양의 정수! ");
     } else if (num === 100) {
         window.alert("제가 처리할 수 있는 가장 큰 숫자! ");
-    } else if (num < 100 && num > 90) {
+    } else if (num < 100 && num > 89) {
         window.alert("100이랑 가까워요! ");
     } else if (num < 60 && num > 40) {
         window.alert("중간 쯤... 어디 일걸요..?");
